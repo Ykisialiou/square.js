@@ -1,1 +1,1 @@
-module.exports = x => int(x) ** 2;
+module.exports = x => parseInt(x) ** 2;
