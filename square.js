@@ -1,1 +1,1 @@
-module.exports = x => parseInt(x) ** 2;
+module.exports = x => Promise.resolve(x ** 2);
